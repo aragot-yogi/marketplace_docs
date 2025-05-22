@@ -2,7 +2,9 @@
 
 *Last updated 17-May-2025.*
 
-We haven't found new Confluence JavaDocs after 8.5.0. The JavaDocs remain available for some libraries like [licensing-api](https://maven.artifacts.atlassian.com/com/atlassian/upm/licensing-api/7.1.8/).
+After Confluence 8.5.0, Atlassian didn't seem to publish the -javadoc.jar files. Ideas:
+* You can access the javadocs of some libraries like [licensing-api](https://maven.artifacts.atlassian.com/com/atlassian/upm/licensing-api/7.1.8/),
+* You can access the HTML files on [https://docs.atlassian.com/](https://docs.atlassian.com/)
 
 Version | Release date | Release notes
 --- | --- | ---
